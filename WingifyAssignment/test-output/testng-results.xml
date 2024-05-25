@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-25T06:26:02Z" name="Default suite" finished-at="2024-05-25T06:26:15Z" duration-ms="12747">
+    <groups>
+    </groups>
+    <test started-at="2024-05-25T06:26:02Z" name="Default test" finished-at="2024-05-25T06:26:15Z" duration-ms="12747">
+      <class name="wingify.AssignmentTest">
+        <test-method is-config="true" signature="ExtentReport()[pri:0, instance:wingify.AssignmentTest@632ceb35]" started-at="2024-05-25T11:56:02Z" name="ExtentReport" finished-at="2024-05-25T11:56:03Z" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:wingify.AssignmentTest@632ceb35]" started-at="2024-05-25T11:56:03Z" name="setup" finished-at="2024-05-25T11:56:07Z" duration-ms="4407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginAndSortTransactions()[pri:0, instance:wingify.AssignmentTest@632ceb35]" started-at="2024-05-25T11:56:07Z" name="loginAndSortTransactions" finished-at="2024-05-25T11:56:09Z" duration-ms="2009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAndSortTransactions -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:wingify.AssignmentTest@632ceb35]" started-at="2024-05-25T11:56:09Z" name="tearDown" finished-at="2024-05-25T11:56:15Z" duration-ms="5482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="EndReporting()[pri:0, instance:wingify.AssignmentTest@632ceb35]" started-at="2024-05-25T11:56:15Z" name="EndReporting" finished-at="2024-05-25T11:56:15Z" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndReporting -->
+      </class> <!-- wingify.AssignmentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
